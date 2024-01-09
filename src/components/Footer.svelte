@@ -7,11 +7,13 @@
     <div class="flex flex-col gap-4 items-center justify-center">
         <p><b class="pr-2">Email</b> filipjuranoe@gmail.com</p>
         <p><b class="pr-2">Github</b>
+            <!-- svelte-ignore a11y-invalid-attribute -->
             <a href="#" class="text-violet-400" target="_blank">
                 FilipJur<sup><span class="text-xs scale-70 pl-0.5"><i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"></i></span></sup>
             </a>
         </p>
         <p><b class="pr-2">LinkedIn</b>
+            <!-- svelte-ignore a11y-invalid-attribute -->
             <a href="#" class="text-violet-400" target="_blank">
                 FilipJur<sup><span class="text-xs scale-70 pl-0.5"><i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"></i></span></sup>
             </a>

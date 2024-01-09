@@ -1,7 +1,7 @@
 <script>
 	import '../app.css';
-	import '../components/Header.svelte';
-	import '../components/Footer.svelte';
+	import Footer from '../components/Footer.svelte';
+    import Header from '../components/Header.svelte';
 
 	let y;
 	let innerHeight = 0;
@@ -24,6 +24,7 @@
 			<i class="fa-solid fa-arrow-up grid place-items-center aspect-square"></i>
 		</button>
 	</div>
+	
 	<Header {y} />
 	<slot />
 
