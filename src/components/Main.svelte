@@ -103,6 +103,8 @@
 				</div>
 			{/each}
 		</div>
-        <h5 class="text-2xl sm:text-3xl font-bold text-center poppins ">The <span class="text-violet-500">Complete</span> Package</h5>
+		<h5 class="text-2xl sm:text-3xl font-bold text-center poppins">
+			The <span class="text-violet-500">Complete</span> Package
+		</h5>
 	</section>
 </main>

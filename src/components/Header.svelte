@@ -6,7 +6,6 @@
 		{ name: 'About Me', link: '#about' }
 		// {name: "Blog", "#projects"},
 	];
-    
 </script>
 
 <header
